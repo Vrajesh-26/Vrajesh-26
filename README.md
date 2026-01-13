@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Vrajesh
 
-<!--
-**Vrajesh-26/Vrajesh-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student  
+💻 Learning by building, breaking, and improving  
+🚀 Interested in software development, backend concepts, and system fundamentals
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🎓 Currently studying **Computer Engineering**
+- 🌱 Learning **Java, JavaScript, SQL, and Linux**
+- 🛠 Exploring **web development** and **backend basics**
+- 📈 Believer in **consistent improvement over perfection**
+
+---
+
+## 🛠️ Tech Stack (Growing)
+
+### Languages
+- Java
+- JavaScript
+- SQL
+
+### Tools & Platforms
+- Git & GitHub
+- Linux / WSL
+- VS Code
+
+---
+
+## 📂 Projects
+
+| Project | Description | Tech |
+|-------|------------|------|
+| Shopsphere--localShopSupporter | Support local shop for support them for billing, stock management, daily sells or more | Java/ JavaScript |
+
+---
+
+## 📚 Currently Learning
+
+- Object-Oriented Programming (Java)
+- JavaScript fundamentals & DOM
+- Database basics with MySQL
+- Linux command line & system concepts
+
+---
+
+## 🎯 Goals
+
+- Build strong **programming fundamentals**
+- Create **real-world projects**
+- Contribute to **open source**
+- Prepare for **internships & placements**
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [@Vrajesh-26](https://github.com/Vrajesh-26)
+
+> ⭐ Feel free to explore my repositories and follow my journey!
