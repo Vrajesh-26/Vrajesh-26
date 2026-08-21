@@ -29,14 +29,6 @@
 
 ---
 
-## 📂 Projects
-
-| Project | Description | Tech |
-|-------|------------|------|
-| Shopsphere--localShopSupporter | Support local shop for support them for billing, stock management, daily sells or more | Java/ JavaScript |
-
----
-
 ## 📚 Currently Learning
 
 - Object-Oriented Programming (Java)
